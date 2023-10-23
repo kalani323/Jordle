@@ -4,4 +4,4 @@ Modeled after the New York Time's Wordle (https://www.nytimes.com/games/wordle/i
  - Type in a word as a guess, and the game tells you which letters are or aren't in the word. 
  - The aim is to figure out the secret word with the fewest guesses.
 I was able to create a JavaFx GUI program that does the same thing along with buttons that allow for restart and instructions on how to play
--- completed in CS1331 (Spring 2022)
+Completed in CS1331 (Spring 2022)
